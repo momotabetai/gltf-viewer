@@ -1,0 +1,11 @@
+Model Information:
+* title:	JomondokiScaniverse 2022-07-08
+* source:	https://sketchfab.com/3d-models/jomondokiscaniverse-2022-07-08-46a2d9d4e7e04cb89435eeffe83e0215
+* author:	ntsm (https://sketchfab.com/ntsm)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "JomondokiScaniverse 2022-07-08" (https://sketchfab.com/3d-models/jomondokiscaniverse-2022-07-08-46a2d9d4e7e04cb89435eeffe83e0215) by ntsm (https://sketchfab.com/ntsm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
